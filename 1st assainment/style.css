@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top-sec {
+    display: flex;
+}
+
+.half-w {
+    width: 40%;
+}
+
+.top-title {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    padding-left: 5px;
+    border-left: 5px solid #FF5959;
+
+}
+
+#miss-t {
+    color: chocolate;
+}
+
+.top-left {
+    margin-top: 5%;
+    margin-left: 10%;
+    padding-left: 10px;
+}
+
+.half-w img {
+    width: 50%;
+    padding-left: 30%;
+}
+
+.btn-exp {
+    color: aliceblue;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    background-color: #FF5959;
+    text-align: center;
+}
+
+.miss-body {
+    display: flex;
+}
+
+.mission-t {
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+
+}
+
+.miss-1 {
+    background-color: rgba(79, 157, 166, 0.103);
+    margin: 5px 5px 5px 10%;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0px 5px 5px gray;
+
+}
+
+.miss-2 {
+    background-color: rgba(255, 89, 89, 0.13);
+    margin: 5px;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0px 5px 5px gray;
+}
+
+.miss-3 {
+    background-color: rgb(255, 244, 214);
+    margin: 5px 10% 5px 5px;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0px 5px 5px gray;
+}
+
+.miss-1 img {
+
+    width: 126px;
+}
+
+
+.develop{
+    display: flex;
+    padding: 5%;
+    background-image: url(images/bg31.png);
+    background-repeat: no-repeat;
+    
+    background-size: 250px;
+}
+.del-left{
+    width: 30%;
+    margin-left: 10%;
+    padding: 20px;
+}
+.del-right{
+    width: 50%;
+    padding: 20px;
+}
+.del-right p{
+    padding-right: 10%;
+    padding-bottom: 40px;
+    text-align: justify;
+}
+.del-left img{
+    width:70%;
+}
+
+.develop-l{
+    display: flex;
+    padding: 5%;
+    background-image: url(images/bg31.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    background-size: 250px;
+}
+
+.corona{
+    display: flex;
+}
+
+.corona-left{
+    width: 40%;
+    padding-left: 150px;
+}
+
+.corona-right{
+    width: 40%;
+    padding-top: 100px;
+}
+
+.corona-right h1{
+    font-size: 40px;
+}
+.corona-right span{
+    color: #FF5959;
+}
+
+.corona-right p{
+margin-bottom: 30px;
+}
+
+footer{
+    background-color: black;
+    padding : 5px;
+    text-align: center;
+    color: aliceblue;
+}
